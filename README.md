@@ -5,7 +5,7 @@ Estou desenvolvendo SCRATH e JAVASCRIPT, além do ALURA
 
 ![](https://media1.tenor.com/m/swjm8N2UEwgAAAAC/homer.gif)
 
-
+curriculo
 
 **estudantealuraT02/estudantealuraT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
