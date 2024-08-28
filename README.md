@@ -1,5 +1,6 @@
 BOAS VINDAS AO MEU PERFIL💙
 
+meu nome é Tiago
 Estou desenvolvendo SCRATH e JAVASCRIPT, além do ALURA
 
 ![](https://media1.tenor.com/m/swjm8N2UEwgAAAAC/homer.gif)
